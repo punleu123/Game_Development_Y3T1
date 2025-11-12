@@ -1,0 +1,31 @@
+# Temp files
+Temp/
+Library/
+UserSettings/
+Logs/
+
+# User-specific files
+.vs/
+.vscode/
+*.userprefs
+*.csproj.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+.idea/
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
