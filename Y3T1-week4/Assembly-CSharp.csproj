@@ -1011,6 +1011,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="WuHuan.ParticleSystemPreview.Editor.csproj">
+      <Project>{73801BFC-9EF2-AAC9-5E87-5DA1AF991016}</Project>
+      <Name>WuHuan.ParticleSystemPreview.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
