@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E3B8ABF6-825C-EAEB-CD63-08DCF029C90E}</ProjectGuid>
+    <ProjectGuid>{9C808A88-3B4C-D756-6DAF-691BB81566FC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1011,10 +1011,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="WuHuan.ParticleSystemPreview.Editor.csproj">
-      <Project>{73801BFC-9EF2-AAC9-5E87-5DA1AF991016}</Project>
-      <Name>WuHuan.ParticleSystemPreview.Editor</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

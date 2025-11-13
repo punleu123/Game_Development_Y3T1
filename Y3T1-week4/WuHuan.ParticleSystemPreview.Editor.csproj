@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{73801BFC-9EF2-AAC9-5E87-5DA1AF991016}</ProjectGuid>
+    <ProjectGuid>{A85378BA-5428-E3FC-FAFF-E36A120545F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>WuHuan.ParticleSystemPreview.Editor</AssemblyName>
